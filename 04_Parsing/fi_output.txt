@@ -1,0 +1,5 @@
+UD Finnish-TDT treebank
+the number of vo word order:  283
+proportion of vo word order:  0.6566125290023201
+the number of ov word order:  148
+proportion of ov word order:  0.3433874709976798

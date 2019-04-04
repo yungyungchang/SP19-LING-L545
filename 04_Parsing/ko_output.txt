@@ -1,0 +1,5 @@
+UD Korean-GSD treebank
+the number of vo word order:  14
+proportion of vo word order:  0.04229607250755287
+the number of ov word order:  317
+proportion of ov word order:  0.9577039274924471

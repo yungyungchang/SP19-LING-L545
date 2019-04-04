@@ -1,0 +1,5 @@
+UD Czech-CAC treebank
+the number of vo word order:  126
+proportion of vo word order:  0.6428571428571429
+the number of ov word order:  70
+proportion of ov word order:  0.35714285714285715

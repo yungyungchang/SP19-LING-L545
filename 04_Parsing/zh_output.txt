@@ -1,0 +1,5 @@
+UD Chinese-GSD treebank
+the number of vo word order:  287
+proportion of vo word order:  0.9630872483221476
+the number of ov word order:  11
+proportion of ov word order:  0.03691275167785235

@@ -1,0 +1,5 @@
+UD Vietnamese-VTB treebank
+the number of vo word order:  315
+proportion of vo word order:  0.9752321981424149
+the number of ov word order:  8
+proportion of ov word order:  0.02476780185758514

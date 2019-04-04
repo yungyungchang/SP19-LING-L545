@@ -1,0 +1,5 @@
+UD Spanish-Ancora treebank
+the number of vo word order:  810
+proportion of vo word order:  0.7856450048496605
+the number of ov word order:  221
+proportion of ov word order:  0.21435499515033948

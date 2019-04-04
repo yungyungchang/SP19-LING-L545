@@ -1,0 +1,5 @@
+UD Japanese-GSD treebank
+the number of vo word order:  0
+proportion of vo word order:  0.0
+the number of ov word order:  117
+proportion of ov word order:  1.0

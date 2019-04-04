@@ -1,0 +1,5 @@
+UD Turkish-IMST treebank
+the number of vo word order:  4
+proportion of vo word order:  0.014814814814814815
+the number of ov word order:  266
+proportion of ov word order:  0.9851851851851852

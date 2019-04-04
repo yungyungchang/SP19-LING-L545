@@ -1,0 +1,5 @@
+UD English-EWT treebank
+the number of vo word order:  346
+proportion of vo word order:  0.9664804469273743
+the number of ov word order:  12
+proportion of ov word order:  0.0335195530726257

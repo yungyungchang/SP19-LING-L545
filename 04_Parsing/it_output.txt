@@ -1,0 +1,5 @@
+UD Italian-ISDT treebank
+the number of vo word order:  89
+proportion of vo word order:  0.9175257731958762
+the number of ov word order:  8
+proportion of ov word order:  0.08247422680412371
